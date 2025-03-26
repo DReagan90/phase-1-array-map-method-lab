@@ -7,7 +7,7 @@ describe('index.js', function () {
         [
           "What Does The This Keyword Mean?",
           "What Is The Constructor OO Pattern?",
-          "Implementing Blockchain Web API",
+          "Implementing Blophase-1-array-map-method-labckchain Web API",
           "The Test Driven Development Workflow",
           "What Is NaN And How Can We Check For It",
           "What Is The Difference Between StopPropagation And PreventDefault?",
